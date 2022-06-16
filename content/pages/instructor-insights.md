@@ -1,30 +1,29 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: b064cd95-4a03-6cc2-0592-2112098132c1
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _24.500 Topics in Philosophy of Mind: Mental Content_ as it was taught by Alex Byrne and Agustín Rayo in Spring 2015.
 
-Propositions are everywhere in the philosophy of mind. Believing, hoping, and intending (for example) are said to be “propositional attitudes,” mental states that involve relations to propositions. This seminar examines issues at the heart of the dispute between the proposition-aficionados and their detractors. The course is divided into five parts: (1) de se thought; (2) propositions; (3) knowing how; (4) perceptual content; and (5) the knowledge argument.
+Propositions are everywhere in the philosophy of mind. Believing, hoping, and intending (for example) are said to be “propositional attitudes,” mental states that involve relations to propositions. This seminar examines issues at the heart of the dispute between the proposition-aficionados and their detractors. The course is divided into five parts: (1) _de se_ thought; (2) propositions; (3) knowing how; (4) perceptual content; and (5) the knowledge argument.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Discuss readings spotlighting de se thought, propositions, knowing how, perceptual content, and the knowledge argument
-*   Examine issues at the heart of the dispute between proposition-aficionados and their detractors
-*   Synthesize understanding of one of the topics in the course in a lengthy term paper
+- Discuss readings spotlighting de se thought, propositions, knowing how, perceptual content, and the knowledge argument
+- Examine issues at the heart of the dispute between proposition-aficionados and their detractors
+- Synthesize understanding of one of the topics in the course in a lengthy term paper
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -40,12 +39,11 @@ Variable semester offerings
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 {{< quote "We, as the instructors, disagreed on many philosophical issues and aired our disagreements in the seminar. This made for a more lively class, and was also (we think) helpful for the students." "—Alex Byrne and Agustín Rayo" >}}
 
-_Below, Alex Byrne and Agustín Rayo describe various aspects of how they taught _24.500 Topics in Philosophy of Mind: Mental Content_._
+_Below, Alex Byrne and Agustín Rayo describe various aspects of how they taught_ 24.500 Topics in Philosophy of Mind: Mental Content.
 
 ### Selecting Content
 
@@ -61,19 +59,19 @@ We devoted the final session of the class to student-presentations, with each st
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The following factors were considered when determining students’ grades:
 
-*   Class attendance
-*   Assigned readings
-*   A 20-25 page final paper
+- Class attendance
+- Assigned readings
+- A 20-25 page final paper
 
-Student Information
--------------------
+## Student Information
 
-![On average, fewer than 10 students take this course each time it is offered.]({{< resource_file 63f7f2fc-dbe4-8161-3fbb-071d6a21f6e9 >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Typical Student Background
 
@@ -81,20 +79,17 @@ Most of the students in this class were philosophy graduate students from MIT an
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 1 time per week for 3 hours per session; 15 sessions total.
-*   Three sessions featured guest speakers.
-*   Students presented their papers during one of the final sessions.
+- Met 1 time per week for 3 hours per session; 15 sessions total.
+- Three sessions featured guest speakers.
+- Students presented their papers during one of the final sessions.
 
-Out of Class
-------------
+### Out of Class
 
-*   Students spent time outside of class on the assigned and supplementary readings.
-*   Students also researched and wrote their final papers, which were 20-25 pages in length.
+- Students spent time outside of class on the assigned and supplementary readings.
+- Students also researched and wrote their final papers, which were 20-25 pages in length.
