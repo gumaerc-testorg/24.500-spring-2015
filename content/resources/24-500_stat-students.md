@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Image showing the approximate number of students enrolled in the course.
-file: /courses/24-500-topics-in-philosophy-of-mind-mental-content-spring-2015/63f7f2fcdbe481613fbb071d6a21f6e9_24-500_stat-students.png
+file: /ol-ocw-studio-app/courses/24-500-topics-in-philosophy-of-mind-mental-content-spring-2015/63f7f2fcdbe481613fbb071d6a21f6e9_24-500_stat-students.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''

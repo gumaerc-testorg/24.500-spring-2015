@@ -49,8 +49,11 @@
     "website": "24-500-topics-in-philosophy-of-mind-mental-content-spring-2015"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "ef996bc6-ba03-4987-9e87-a3cc0f9a6454",
+  "site_uid": "ae04a484-8f34-41b4-a86a-fe4ebcc29f50",
+  "site_short_id": "24.500-spring-2015",
+  "site_url_path": "courses/24-500-topics-in-philosophy-of-mind-mental-content-spring-2015",
   "title": "Course Metadata"
 }
