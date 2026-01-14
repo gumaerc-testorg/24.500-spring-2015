@@ -61,7 +61,7 @@ KEY DATES
 Part I: De Se Thought
 {{< tdclose >}}
 {{< tdopen >}}
-Session 3 Guest: {{% resource_link "83774b0e-762f-4430-807b-15985ff93a75" "Dilip Ninan" %}}
+Session 3 Guest: [Dilip Ninan](http://www.dilipninan.org/)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +85,7 @@ Part II: Propositions
 Part III: Knowing How
 {{< tdclose >}}
 {{< tdopen >}}
-Session 7 Guest: {{% resource_link "697bb00e-93ed-43dc-b1ba-88057decdd34" "Ephraim Glick" %}}
+Session 7 Guest: [Ephraim Glick](http://www.st-andrews.ac.uk/~eg35/About.html)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +97,7 @@ Session 7 Guest: {{% resource_link "697bb00e-93ed-43dc-b1ba-88057decdd34" "Ephra
 Part IV: Perceptual Content
 {{< tdclose >}}
 {{< tdopen >}}
-Session 8 Guest: {{% resource_link "2947b77d-e7d8-4ff3-94c8-8ae024f93003" "Heather Logue" %}}
+Session 8 Guest: [Heather Logue](http://www.leeds.ac.uk/arts/profile/20042/199/heather_logue)
 {{< tdclose >}}
 
 {{< trclose >}}
